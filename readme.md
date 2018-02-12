@@ -17,7 +17,7 @@ Today we will touch on a few important considerations when building the interfac
 
 ### Cost vs Benefit
 
-Closely consider the benefits of using your application. What is the app designed to do? How might it make a users life easy, happy, healthy, knowledgeable, productive, or fun? While it is fun and easy to imagine our applications' positive impact on users, it is important to remember that there is always an associated cost. Costs come in many forms: money, time, ...decisions?
+Closely consider the benefits of using your application. What is the app designed to do? How might it make a user's life easy, happy, healthy, knowledgeable, productive, or fun? While it is fun and easy to imagine our applications' positive impact on users, it is important to remember that there is always an associated cost. Costs come in many forms: money, time, ...decisions?
 
 <details>
   <summary><strong>What aspects of an application may create a cost for users?</strong></summary>
@@ -54,11 +54,11 @@ Consumers typically choose products that are simple and focused on solving a spe
 
 ![yahoo homepage](./Yahoo.png)
 
-Minimizing costs is as important as maximizing benefit. Users will never appreciate the value of your application if the investment of time and energy is too great.
+Minimizing cost is as important as maximizing benefit. Users will never appreciate the value of your application if the investment of time and energy is too great.
 
 ### Consistency
 
-The concept of consistency is not new to this course and it has been encouraged throughout in reference to writing code.
+The concept of consistency is not new to this course and has been encouraged throughout in reference to writing code.
 
 <details>
   <summary><strong>What are the benefits of writing consistent code?</strong></summary>
@@ -84,11 +84,16 @@ Inconsistency can be a powerful tool too, but it should be used sparingly and mi
 
 User expectations extend across applications.
 
-![skip](./skip.png)
-</br>
 ![shuffle](./media-shuffle.png)
+</br>
+![heart](./heart.png)
 
-Mimicry is borrowing *aspects* of a familiar design in order to utilize users' preexisting knowledge or expectation. **Dont reinvent the wheel.**
+Mimicry is borrowing *aspects* of a familiar design in order to utilize users' preexisting knowledge or expectations. **Dont reinvent the wheel.**
+
+When building an interface, look to similar applications for inspiration. Is navigation intuitive? Does the choice of color palette elicit a particular feeling or emotion? Is content organized simply? Take aspects you like and modify them to fit the overall style of your application.
+
+Play to user expectations whenever possible. If you make bold decisions about your application's layout, flow, or style, that are contrary to the norm, ask yourself why. If you can't identify a concrete benefit, you're only creating a cost to your user.
+
 ### Forgiveness
 
 ### Color
