@@ -70,23 +70,27 @@ The concept of consistency is not new to this course and it has been encouraged 
 - removes the need to make frequent style decisions
 
 </details>
+</br>
 
 Consistency in interface design is similarly important. Consistent style improves a user's ability to learn and use an application. When links, headers, buttons, font, color, or even page margins are visually and functionally consistent, our application creates reliable expectations for users. This builds trust, comfort, and recognition.
 
 Let's check out [Airbnb](https://www.airbnb.com). What's consistent?
 
-Inconsistency can be a powerful tool too, but it should be used sparingly and minimally. Elements that are visually distinct attract more attention and can be used to direct users' attention. To direct attention to your app's most important feature, link, or button, consider altering the size, shape, color, or font but NEVER all four. Ensure that any break in consistency still fits naturally within the app's style as a whole.
+Create constraints when planning the interface of an application. Limit yourself to a few complementary colors, one or two fonts-styles, and a handful of distinct font-size/weight combinations. Organizing page content within a grid creates visual consistency through alignment and whitespace.
+
+Inconsistency can be a powerful tool too, but it should be used sparingly and minimally. Elements that are visually distinct can be used to direct users' attention. To direct attention to your app's most important feature, link, or button, consider altering the element's size, shape, color, or font but NEVER all four. Ensure that any break in consistency still fits naturally within the app's style as a whole.
 
 #### Mimicry
 
 User expectations extend across applications.
 
 ![skip](./skip.png)
+</br>
 ![shuffle](./media-shuffle.png)
 
+Mimicry is borrowing *aspects* of a familiar design in order to utilize users' preexisting knowledge or expectation. **Dont reinvent the wheel.**
 ### Forgiveness
 
 ### Color
 
-### Entry Point
-
+### Legibility
