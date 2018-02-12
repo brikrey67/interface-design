@@ -15,9 +15,25 @@ The content in this section is inspired by a book I highly recommend for anyone 
 
 Today we will touch on a few important considerations when building the interface of a website or application.
 
-### Cost/Benefit
+### Cost vs Benefit
+
+Closely consider the benefits of using your application. What is the app designed to do? How might it make a users life easy, happy, healthy, knowledgeable, productive, or fun? While it is fun and easy to imagine our applications' positive impact on users, it is important to remember that there is always an associated cost. Costs come in many forms: money, time, ...decisions?
+
+<details>
+  <summary><strong>What aspects of an application may create a cost for users?</strong></summary>
+
+  **Load Time**
+  **Onboarding**
+  **Complexity**
+
+</details>
+
 ### Consistency/Similarity
+
 ### Forgiveness
+
 ### Color
+
 ### Entry Point
+
 ### Mimicry
