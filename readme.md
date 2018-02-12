@@ -26,7 +26,7 @@ Closely consider the benefits of using your application. What is the app designe
 - **loading:** People are impatient. The longer a user has to wait, the more likely they are to use an alternative product.
 - **sign up:** Forms are annoying and nobody enjoys sharing unnecessary personal information. Unless signing up is critical to an app's benefit, it will be perceived as a cost.
 - **onboarding:** It takes time and energy to learn a new skill or tool. Simplify onboarding as much as possible and focus on features that are critical to the core functionality of the app.
-- **complexity:** People become overwhelmed by complexity and can become paralyzed if given too many options. Give your app a KISS (Keep it Simple, Stupid)
+- **complexity:** People become overwhelmed by complexity and can become paralyzed if given too many options. Give your app a KISS (Keep it Simple, Stupid!)
 
 </details>
 
@@ -45,7 +45,44 @@ Hick's law states that the time it takes to make a decision increases with the n
   ![netflix display](./netflix.png)
 
 </details>
-### Consistency/Similarity
+
+#### Occam's Razor
+
+Occam's razor is a principle that states that when presented with competing solutions to a problem, choose the one that makes the fewest assumptions (i.e. the simplest one). Favor simplicity over complexity. Superfluous elements decrease an applications efficiency and introduce possibilities for error. Carefully evaluate each piece of your application and determine whether each element contributes to the application's larger function or goal.
+
+Consumers typically choose products that are simple and focused on solving a specific problem.
+
+![yahoo homepage](./Yahoo.png)
+
+Minimizing costs is as important as maximizing benefit. Users will never appreciate the value of your application if the investment of time and energy is too great.
+
+### Consistency
+
+The concept of consistency is not new to this course and it has been encouraged throughout in reference to writing code.
+
+<details>
+  <summary><strong>What are the benefits of writing consistent code?</strong></summary>
+  </br>
+
+- visually pleasing
+- improves readability
+- improves understanding and communication between team members
+- removes the need to make frequent style decisions
+
+</details>
+
+Consistency in interface design is similarly important. Consistent style improves a user's ability to learn and use an application. When links, headers, buttons, font, color, or even page margins are visually and functionally consistent, our application creates reliable expectations for users. This builds trust, comfort, and recognition.
+
+Let's check out [Airbnb](https://www.airbnb.com). What's consistent?
+
+Inconsistency can be a powerful tool too, but it should be used sparingly and minimally. Elements that are visually distinct attract more attention and can be used to direct users' attention. To direct attention to your app's most important feature, link, or button, consider altering the size, shape, color, or font but NEVER all four. Ensure that any break in consistency still fits naturally within the app's style as a whole.
+
+#### Mimicry
+
+User expectations extend across applications.
+
+![skip](./skip.png)
+![shuffle](./media-shuffle.png)
 
 ### Forgiveness
 
@@ -53,4 +90,3 @@ Hick's law states that the time it takes to make a decision increases with the n
 
 ### Entry Point
 
-### Mimicry
