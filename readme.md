@@ -21,10 +21,10 @@ Closely consider the benefits of using your application. What is the app designe
 
 <details>
   <summary><strong>What aspects of an application may create a cost for users?</strong></summary>
-
-  **Load Time**
-  **Onboarding**
-  **Complexity**
+  </br>
+  > **Load Time:**
+  > **Onboarding:**
+  > **Complexity:**
 
 </details>
 
