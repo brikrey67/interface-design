@@ -23,10 +23,10 @@ Closely consider the benefits of using your application. What is the app designe
   <summary><strong>What aspects of an application may create a cost for users?</strong></summary>
   </br>
 
-  > **loading:** People are impatient. The longer a user has to wait, the more likely they are to use an alternative product.
-  > **sign up:** Forms are annoying and nobody enjoys sharing unnecessary personal information. Unless signing up is critical to an app's benefit, it will be perceived as a cost.
-  > **onboarding:** It takes time and energy to learn a new skill or tool. Simplify onboarding as much as possible and focus on features that are critical to the core functionality of the app.
-  > **complexity:** People become overwhelmed by complexity and can become paralyzed if given too many options. Give your app a KISS (Keep it Simple, Stupid)
+- **loading:** People are impatient. The longer a user has to wait, the more likely they are to use an alternative product.
+- **sign up:** Forms are annoying and nobody enjoys sharing unnecessary personal information. Unless signing up is critical to an app's benefit, it will be perceived as a cost.
+- **onboarding:** It takes time and energy to learn a new skill or tool. Simplify onboarding as much as possible and focus on features that are critical to the core functionality of the app.
+- **complexity:** People become overwhelmed by complexity and can become paralyzed if given too many options. Give your app a KISS (Keep it Simple, Stupid)
 
 </details>
 
@@ -40,9 +40,9 @@ Hick's law states that the time it takes to make a decision increases with the n
   <summary><strong>How does Netflix utilize Hick's Law to make choosing a show or movie easier for users?</strong></summary>
   </br>
 
-  > By presenting rows of related items, Netflix encourages users to first narrow their decision by genre.
+  By presenting rows of related items, Netflix encourages users to first narrow their decision by genre.
 
-  ![netflix display](./netflix.png')
+  ![netflix display](./netflix.png)
 
 </details>
 ### Consistency/Similarity
