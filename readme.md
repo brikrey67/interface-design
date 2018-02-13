@@ -11,7 +11,7 @@ As web developers it is our job to build products. Whether your applications are
 
 The content in this section is inspired by a book I highly recommend for anyone working in product design. You! *Universal Principles of Design* is exactly what it seems. It is a huge repository of design considerations that can and should be applied to the design of tea kettles, elevators, propaganda, space shuttles, and everything in between.
 
-![example page of universal principles of design](.images/page-example.png)
+![example page of universal principles of design](./images/page-example.png)
 
 Today we will touch on a few important considerations when building the interface of a website or application.
 
@@ -32,11 +32,11 @@ Closely consider the benefits of using your application. What is the app designe
 
 #### Hick's Law
 
-![Hick's law diagram](.images/hicks-law.jpg)
+![Hick's law diagram](./images/hicks-law.jpg)
 
 Hick's law states that the time it takes to make a decision increases with the number of present choices. Users feel confident, empowered, and happy when they are able to easily navigate an application and they are frustrated when they can't find what they're looking for. Consider Hick's law when designing navigation and menu options. Group related navigation links together. Present the most used functions and hide advanced features for users to learn with time.
 
-![google search feature](.images/google.jpg)
+![google search feature](./images/google.jpg)
 
 <details>
   <summary><strong>How does Netflix utilize Hick's Law to make choosing a show or movie easier for users?</strong></summary>
@@ -44,7 +44,7 @@ Hick's law states that the time it takes to make a decision increases with the n
 
   By presenting rows of related items, Netflix encourages users to first narrow their decision by genre.
 
-  ![netflix display](.images/netflix.png)
+  ![netflix display](./images/netflix.png)
 
 </details>
 
@@ -54,7 +54,7 @@ Occam's razor is a principle that states that when presented with competing solu
 
 Consumers typically choose products that are simple and focused on solving a specific problem.
 
-![yahoo homepage](.images/Yahoo.png)
+![yahoo homepage](./images/Yahoo.png)
 
 Minimizing cost is as important as maximizing benefit. Users will never appreciate the value of your application if the investment of time and energy is too great.
 
@@ -86,9 +86,9 @@ Inconsistency can be a powerful tool too, but it should be used sparingly and mi
 
 User expectations extend across applications.
 
-![shuffle](.images/media-shuffle.png)
+![shuffle](./images/media-shuffle.png)
 </br>
-![heart](.images/heart.png)
+![heart](./images/heart.png)
 
 Mimicry is borrowing *aspects* of a familiar design in order to utilize users' preexisting knowledge or expectations. **Dont reinvent the wheel.**
 
@@ -102,7 +102,7 @@ User experience (UX) design prioritizes testing and iteration. UX puts the user 
 
 Ultimately, we are not building products for ourselves, meaning our opinions and preferences may not match those who we are designing for. A responsible UX designer tests their assumptions --better yet, they design based on user feedback.
 
-![UX flow diagram](.images/UXdesign.png)
+![UX flow diagram](./images/UXdesign.png)
 
 ### Empathize
 
@@ -126,7 +126,7 @@ Once you're comfortable with a design, build it, deploy it, and test it. The exp
 
 ### UX in Reality
 
-![UX in Reality](.images/UXreality.png)
+![UX in Reality](./images/UXreality.png)
 
 ### Common UX Tools and Strategies
 
@@ -139,7 +139,7 @@ Once you're comfortable with a design, build it, deploy it, and test it. The exp
 
 #### Affinity Mapping
 
-![Affinity map](.images/affinity-map.jpg)
+![Affinity map](./images/affinity-map.jpg)
 
 - Use sticky notes to organize trends across user interviews.
 - Write in ALL-CAPS with a bold marker
@@ -152,7 +152,7 @@ Once you're comfortable with a design, build it, deploy it, and test it. The exp
 
 #### User Flows
 
-![User Flow](.images/flow.jpg)
+![User Flow](./images/flow.jpg)
 
 - User flows help you organize a users path through an aplication.
 - User flows may identify long or difficult taskes that need streamlining
@@ -160,7 +160,7 @@ Once you're comfortable with a design, build it, deploy it, and test it. The exp
 
 #### Wireframing
 
-![wireframe](.images/wire-frame.jpg)
+![wireframe](./images/wire-frame.jpg)
 
 - Wireframes visualize an idea. They are void of visual design elements and focus on layout and organization.
 - It's very easy to compare designs
@@ -173,7 +173,7 @@ Once you're comfortable with a design, build it, deploy it, and test it. The exp
 
 #### Card Sorting
 
-![cardsorting](.images/cardsorting.png)
+![cardsorting](./images/cardsorting.png)
 
 - Ask users to group and organize a stack of cards that represent navigation items.
 - Card sorting gives insight into how people expect items to be grouped.
