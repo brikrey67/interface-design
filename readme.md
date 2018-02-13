@@ -32,6 +32,8 @@ Closely consider the benefits of using your application. What is the app designe
 
 #### Hick's Law
 
+![Hick's law diagram](./hicks-law.jpg)
+
 Hick's law states that the time it takes to make a decision increases with the number of present choices. Users feel confident, empowered, and happy when they are able to easily navigate an application and they are frustrated when they can't find what they're looking for. Consider Hick's law when designing navigation and menu options. Group related navigation links together. Present the most used functions and hide advanced features for users to learn with time.
 
 ![google search feature](./google.jpg)
@@ -78,7 +80,7 @@ Let's check out [Airbnb](https://www.airbnb.com). What's consistent?
 
 Create constraints when planning the interface of an application. Limit yourself to a few complementary colors, one or two fonts-styles, and a handful of distinct font-size/weight combinations. Organizing page content within a grid creates visual consistency through alignment and whitespace.
 
-Inconsistency can be a powerful tool too, but it should be used sparingly and minimally. Elements that are visually distinct can be used to direct users' attention. To direct attention to your app's most important feature, link, or button, consider altering the element's size, shape, color, or font but NEVER all four. Ensure that any break in consistency still fits naturally within the app's style as a whole.
+Inconsistency can be a powerful tool too, but it should be used sparingly and minimally. Elements that are visually unique can be used to direct users' attention. To direct attention to your app's most important feature, link, or button, consider altering the element's size, shape, color, or font but NEVER all four. Ensure that any break in consistency still fits naturally within the app's style as a whole.
 
 #### Mimicry
 
@@ -90,12 +92,85 @@ User expectations extend across applications.
 
 Mimicry is borrowing *aspects* of a familiar design in order to utilize users' preexisting knowledge or expectations. **Dont reinvent the wheel.**
 
-When building an interface, look to similar applications for inspiration. Is navigation intuitive? Does the choice of color palette elicit a particular feeling or emotion? Is content organized simply? Take aspects you like and modify them to fit the overall style of your application.
+When building an interface, look to similar applications for direction. Is navigation intuitive? Does the choice of color palette elicit a particular feeling or emotion? Is content organized simply? Take aspects you like and modify them to fit the overall style of your application.
 
-Play to user expectations whenever possible. If you make bold decisions about your application's layout, flow, or style, that are contrary to the norm, ask yourself why. If you can't identify a concrete benefit, you're only creating a cost to your user.
+Play to user expectations whenever possible. If you make a bold decision about your application's layout, flow, or style, which is contrary to the norm, ask yourself why. If you can't identify a concrete benefit, you're only creating a cost to your user.
 
-### Forgiveness
+## User Experience Design
 
-### Color
+User experience (UX) design prioritizes testing and iteration. UX puts the user first. It is a process which leads to products that meet the explicit needs of users. The UX process is fluid and non-linear. It requires validation through user testing at each step.
 
-### Legibility
+Ultimately, we are not building products for ourselves, meaning our opinions and preferences may not match those who we are designing for. A responsible UX designer tests their assumptions --better yet, they design based on user feedback.
+
+![UX flow diagram](./UXdesign.png)
+
+### Empathize
+
+The UX design process always begins with empathy. Understanding your target user is critical to building a product that will improve their experience. Interviews with users (not your colleagues) gives meaningful insight into the challenges they face, their problem solving strategies, and the tools they use.
+
+### Define
+
+With enough research a common problem becomes present. With a clear problem or goal, you can be more targeted in your research. Identify specific pain-points associated with a common task and clearly define what demographic experiences this particular challenge. Creating a persona or a representation of your target user helps foster empathy through the entire design process.
+
+### Ideate
+
+After you've clearly identified a problem and the demographic that experiences it, you can begin to ideate about potential solutions. Brainstorm with colleagues and verify your thinking with users.
+
+### Prototype
+
+Once a rough solution forms, begin prototyping. Start with a pencil and paper. A simple sketch can identify flaws early on and prevent wasteful investment of time and resources. After validating a paper sketch, create more robust prototypes and test with users often. This stage allows for quick iteration.
+
+### Test
+
+Once you're comfortable with a design, build it, deploy it, and test it. The experience of using a deployed product is inherently different from using a high-fidelity prototype. It won't be perfect the first time. Use the knowledge gained through testing to improve the next iteration of the product.
+
+### UX in Reality
+
+![UX persona](./ux-persona.jpg)
+
+### Common UX Tools and Strategies
+
+#### User Interviews
+
+- Don't ask people what they want. People understand their problems but not necessarily the solution.
+- Ask about past experiences. What could have been better?
+- Ask open-ended questions. Get people talking!
+- Follow up with 'Why?'
+
+#### Affinity Mapping
+
+![Affinity map](./affinity-map.jpg)
+
+- Use sticky notes to organize trends across user interviews.
+- Write in ALL-CAPS with a bold marker
+- Color code by interviewee
+
+#### Competitive Analysis
+
+- Look to services that target the same demographic. What are they doing well? Where is there room to improve?
+- Analyze which features user actually use and appreciate
+
+#### User Flows
+
+![User Flow](./flow.jpg)
+
+- User flows help you organize a users path through an aplication.
+- User flows may identify long or difficult taskes that need streamlining
+- User flows create a great framework to build wireframes from.
+
+#### Wireframing
+
+- Wireframes visualize an idea. They are void of visual design elements and focus on layout and organization.
+- It's very easy to compare designs
+
+#### Usability Testing
+
+- Put a prototype in front of a user to observe their interaction.
+- Ask users to complete concrete tasks.
+- Test assumptions about how a user will interact with a design.
+
+#### Card Sorting
+
+- Ask users to group and organize a stack of cards that represent navigation items.
+- Card sorting gives insight into how people expect items to be grouped.
+- Card sorting is really helpful when organizing navigation and options menus intuitively.
