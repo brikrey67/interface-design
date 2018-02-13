@@ -192,3 +192,7 @@ Once you're comfortable with a design, build it, deploy it, and test it. The exp
 
 - UX designers use apps like (sketch)[https://www.sketchapp.com/] and (inVision)[https://www.invisionapp.com/] to create usable prototypes without writing code.
 - prototyping saves time as it's fast and easy to iterate upon.
+
+## Additional readings
+
+If you google 'universal principles of design pdf', the first two hits are downloadable pdfs of the full book. I'm not saying you should download it but.. someone.. hypothetically.. could read it for free.
