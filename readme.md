@@ -54,7 +54,16 @@ Occam's razor is a principle that states that when presented with competing solu
 
 Consumers typically choose products that are simple and focused on solving a specific problem.
 
+<details>
+  <summary><strong>What is your go to search engine?</strong></summary>
+  </br>
+
 ![yahoo homepage](./images/Yahoo.png)
+
+</details>
+</br>
+
+
 
 Minimizing cost is as important as maximizing benefit. Users will never appreciate the value of your application if the investment of time and energy is too great.
 
