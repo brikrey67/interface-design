@@ -126,7 +126,7 @@ Once you're comfortable with a design, build it, deploy it, and test it. The exp
 
 ### UX in Reality
 
-![UX persona](./ux-persona.jpg)
+![UX in Reality](./UXreality.png)
 
 ### Common UX Tools and Strategies
 
@@ -160,6 +160,8 @@ Once you're comfortable with a design, build it, deploy it, and test it. The exp
 
 #### Wireframing
 
+![wireframe](./wire-frame.jpg)
+
 - Wireframes visualize an idea. They are void of visual design elements and focus on layout and organization.
 - It's very easy to compare designs
 
@@ -170,6 +172,8 @@ Once you're comfortable with a design, build it, deploy it, and test it. The exp
 - Test assumptions about how a user will interact with a design.
 
 #### Card Sorting
+
+![cardsorting](./cardsorting.png)
 
 - Ask users to group and organize a stack of cards that represent navigation items.
 - Card sorting gives insight into how people expect items to be grouped.
